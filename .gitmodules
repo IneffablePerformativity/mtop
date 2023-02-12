@@ -1,0 +1,3 @@
+[submodule "msub"]
+	path = msub
+	url = git@github.com:IneffablePerformativity/msub.git
